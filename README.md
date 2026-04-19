@@ -1,12 +1,12 @@
 
 ``` 
-Modified Baileys DANZXY
+Modified Baileys SETTO
 ``` 
 
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://h.top4top.io/p_35995wdvx1.jpg" alt="Thumbnail" />
+  <img src="https://img2.pixhost.to/images/7297/716508050_papaqueen.jpg" alt="Thumbnail" />
 </p>
 
 WhatsApp Baileys adalah library open‑source yang dirancang untuk membantu developer membangun solusi otomatisasi dan integrasi dengan WhatsApp secara efisien dan langsung. Menggunakan teknologi webclient.t tanpa memerlukan browser, library ini mendukung berbagai fitur seperti manajemen pesan, penanganan chat, administrasi grup, serta pesan interaktif dan tombol aksi untuk pengalaman pengguna yang lebih dinamis.
