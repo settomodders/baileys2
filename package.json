@@ -1,7 +1,7 @@
 {
-    "name": "@danzxy/baileys",
+    "name": "@settomodders/baileys2",
     "version": "1.0.0",
-    "description": "WhatsApp API Modification By danzxy",
+    "description": "WhatsApp API Modification By Setto",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -10,12 +10,12 @@
         "whatsapp-group",
         "botwa"
     ],
-    "homepage": "https://github.com/danzxxy/baileys",
+    "homepage": "https://github.com/settomodders/baileys2",
     "repository": {
-        "url": "https://github.com/danzxxy/baileys"
+        "url": "https://github.com/settomodders/baileys2"
     },
     "license": "MIT",
-    "author": "danzxy",
+    "author": "setto",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
